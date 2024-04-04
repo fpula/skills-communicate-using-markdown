@@ -10,4 +10,7 @@
 var myVar = "Hello, world!";
 ```
 
+```python
+print('hello world!')
+```
 Added header 1 and header 5 to the index.md file
